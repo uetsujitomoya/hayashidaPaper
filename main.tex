@@ -1,0 +1,47 @@
+\documentclass[sotsuron]{kuee}
+\usepackage[dvipdfmx]{graphicx}
+\usepackage{bm}
+\usepackage{amsmath}
+\usepackage{lscape}
+\usepackage{url}
+\title{心療カウンセリングにおける会話データのカテゴリ分類に関する研究}
+\author{林田祐磨}
+\professor{小山田 耕二 教授}
+\course{京都大学工学部}
+\department{電気電子工学科}
+\date{平成29年2月10日}
+
+%----------------------------------------------------------------------
+\graphicspath{{./image/}}
+\charsinline{34}
+
+%%% 本文
+\begin{document}
+\maketitle			% 表題を出力
+\tableofcontents		% 目次を出力
+
+\chapter{序論}
+\input{chapter1.tex}
+\chapter{関連研究}
+\input{chapter2.tex}
+\chapter{分類手法}
+\input{chapter3.tex}
+\chapter{実験内容,結果と考察}
+\input{chapter4.tex}
+\chapter{システム評価}
+\input{chapter6.tex}
+\chapter{考察}
+\input{chapter7.tex}
+\chapter{結論と今後の課題}
+\input{chapter8.tex}
+
+\acknowledgements{\input{acknowledgements.tex}}
+
+\bibliographystyle{kueethesis} % まず，文献目録を掲載する tex ファイルを開き，プリアンブルに使用したい BibTeX のスタイルファイル(bstファイル)を指定します
+\bibliography{main}
+
+%\appendix
+%\chapter{図表}
+
+
+\end{document}
