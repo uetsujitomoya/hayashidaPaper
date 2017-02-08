@@ -1,0 +1,21 @@
+\contentsline {chapter}{\numberline {第{1}章}序論 }{1}
+\contentsline {chapter}{\numberline {第{2}章}関連研究 }{4}
+\contentsline {chapter}{\numberline {第{3}章}分類手法 }{7}
+\contentsline {section}{\numberline {3.1}分類手法の概要}{7}
+\contentsline {section}{\numberline {3.2}word2vecを用いた単語のベクトル化}{7}
+\contentsline {section}{\numberline {3.3}文のベクトル化}{9}
+\contentsline {section}{\numberline {3.4}文ベクトルを入力とする機械学習}{10}
+\contentsline {chapter}{\numberline {第{4}章}実験内容,結果と考察 }{15}
+\contentsline {section}{\numberline {4.1}システム要件}{15}
+\contentsline {subsubsection}{来談者の発言に関する分類}{16}
+\contentsline {subsubsection}{治療者の発言に関する分類}{16}
+\contentsline {section}{\numberline {4.2}システム設計と実装}{17}
+\contentsline {subsubsection}{来談者発言ビュー}{18}
+\contentsline {subsubsection}{治療者発言ビュー}{19}
+\contentsline {subsubsection}{発言分類手動修正機能}{19}
+\contentsline {subsubsection}{原文表示機能}{19}
+\contentsline {chapter}{\numberline {第{5}章}結論と今後の課題 }{20}
+\contentsline {section}{\numberline {5.1}結論}{20}
+\contentsline {section}{\numberline {5.2}今後の課題}{20}
+\contentsline {chapter}{謝 辞}{22}
+\contentsline {chapter}{参 考 文 献}{23}

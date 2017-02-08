@@ -1,0 +1,86 @@
+\setcounter{chapter}{1}
+\addtocounter{chapter}{-1}
+\stepcounter{chapter}
+ 
+\clearpage
+\setcounter{chapter}{2}
+\addtocounter{chapter}{-1}
+\stepcounter{chapter}
+ 
+\clearpage
+\setcounter{chapter}{3}
+\addtocounter{chapter}{-1}
+\stepcounter{chapter}
+ 
+\clearpage
+\setcounter{chapter}{4}
+\addtocounter{chapter}{-1}
+\stepcounter{chapter}
+ 
+\begin{figure*}
+
+   \begin{center}
+     \includegraphics[width=\linewidth]{6_1.png}
+   \end{center}
+   \caption{提案システムの模擬会話データでの可視化結果}
+   \label{fig:6_1}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+
+   \begin{center}
+     \includegraphics[width=\linewidth]{4_2.png}
+   \end{center}
+   \caption{提案システムの構成}
+   \label{fig:4_2}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+
+   \begin{center}
+     \includegraphics[width=\linewidth]{activity.png}
+   \end{center}
+   \caption{テキストデータ処理のアクティビティ図}
+   \label{fig:activity}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+
+   \begin{center}
+     \includegraphics[width=\linewidth]{yomikomimae2.png}
+   \end{center}
+   \caption{会話データ読み込み前のシステムスクリーンショット}
+   \label{fig:yomikomimae2}
+\end{figure*}
+\kueeseparator
+ 
+\begin{figure*}
+
+%\begin{landscape}
+   \begin{center}
+     \includegraphics[width=\linewidth]{5_2.png}
+   \end{center}
+   \caption{治療者発言初期分類方法}
+   \label{fig:5_2}
+%\end{landscape}
+\end{figure*}
+\kueeseparator
+ 
+\clearpage
+\setcounter{chapter}{5}
+\addtocounter{chapter}{-1}
+\stepcounter{chapter}
+ 
+\clearpage
+\setcounter{chapter}{5}
+\addtocounter{chapter}{-1}
+\stepcounter{chapter}
+ 
+\clearpage
+\setcounter{chapter}{5}
+\addtocounter{chapter}{-1}
+\stepcounter{chapter}
+ 
