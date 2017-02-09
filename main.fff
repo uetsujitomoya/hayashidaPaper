@@ -39,7 +39,7 @@
  
 \begin{table*}
 
-   \caption{SVMでの次元数30の170文に対する正答率（％）}
+   \caption{SVMでの次元数30の170文に対する正答率（\%）}
    \label{table:svm_30_170}
    \begin{center}
      \includegraphics[width=\linewidth]{svm_30_170.png}
@@ -49,7 +49,7 @@
  
 \begin{table*}
 
-   \caption{SVMでの次元数40の170文に対する正答率（％）}
+   \caption{SVMでの次元数40の170文に対する正答率（\%）}
    \label{table:svm_40_170}
    \begin{center}
      \includegraphics[width=\linewidth]{svm_40_170.png}
@@ -59,7 +59,7 @@
  
 \begin{table*}
 
-   \caption{SVMでの次元数50の170文に対する正答率（％）}
+   \caption{SVMでの次元数50の170文に対する正答率（\%）}
    \label{table:svm_50_170}
    \begin{center}
      \includegraphics[width=\linewidth]{svm_50_170.png}
@@ -69,7 +69,7 @@
  
 \begin{table*}
 
-   \caption{SVMでの次元数100の170文に対する正答率（％）}
+   \caption{SVMでの次元数100の170文に対する正答率（\%）}
    \label{table:svm_100_170}
    \begin{center}
      \includegraphics[width=\linewidth]{svm_100_170.png}
@@ -79,7 +79,7 @@
  
 \begin{table*}
 
-   \caption{SVMでの次元数200の170文に対する正答率（％）}
+   \caption{SVMでの次元数200の170文に対する正答率（\%）}
    \label{table:svm_200_170}
    \begin{center}
      \includegraphics[width=\linewidth]{svm_200_170.png}
@@ -89,7 +89,7 @@
  
 \begin{table*}
 
-   \caption{SVMでの次元数30の48文に対する正答率（％）}
+   \caption{SVMでの次元数30の48文に対する正答率（\%）}
    \label{table:svm_30_48}
    \begin{center}
      \includegraphics[width=\linewidth]{svm_30_48.png}
@@ -99,7 +99,7 @@
  
 \begin{table*}
 
-   \caption{SVMでの次元数40の48文に対する正答率（％）}
+   \caption{SVMでの次元数40の48文に対する正答率（\%）}
    \label{table:svm_40_48}
    \begin{center}
      \includegraphics[width=\linewidth]{svm_40_48.png}
@@ -109,7 +109,7 @@
  
 \begin{table*}
 
-   \caption{SVMでの次元数50の48文に対する正答率（％）}
+   \caption{SVMでの次元数50の48文に対する正答率（\%）}
    \label{table:svm_50_48}
    \begin{center}
      \includegraphics[width=\linewidth]{svm_50_48.png}
@@ -119,7 +119,7 @@
  
 \begin{table*}
 
-   \caption{SVMでの次元数100の48文に対する正答率（％）}
+   \caption{SVMでの次元数100の48文に対する正答率（\%）}
    \label{table:svm_100_48}
    \begin{center}
      \includegraphics[width=\linewidth]{svm_100_48.png}
@@ -129,7 +129,7 @@
  
 \begin{table*}
 
-   \caption{SVMでの次元数200の48文に対する正答率（％）}
+   \caption{SVMでの次元数200の48文に対する正答率（\%）}
    \label{table:svm_200_48}
    \begin{center}
      \includegraphics[width=\linewidth]{svm_200_48.png}
@@ -139,7 +139,7 @@
  
 \begin{table*}
 
-   \caption{ニューラルネットワークでの次元数30の170文に対する正答率（％）}
+   \caption{ニューラルネットワークでの次元数30の170文に対する正答率（\%）}
    \label{table:svm_30_170}
    \begin{center}
      \includegraphics[width=\linewidth]{svm_30_170.png}
@@ -149,7 +149,7 @@
  
 \begin{table*}
 
-   \caption{ニューラルネットワークでの次元数40の170文に対する正答率（％）}
+   \caption{ニューラルネットワークでの次元数40の170文に対する正答率（\%）}
    \label{table:svm_40_170}
    \begin{center}
      \includegraphics[width=\linewidth]{svm_40_170.png}
@@ -159,7 +159,7 @@
  
 \begin{table*}
 
-   \caption{ニューラルネットワークでの次元数50の170文に対する正答率（％）}
+   \caption{ニューラルネットワークでの次元数50の170文に対する正答率（\%）}
    \label{table:svm_50_170}
    \begin{center}
      \includegraphics[width=\linewidth]{svm_50_170.png}
@@ -169,7 +169,7 @@
  
 \begin{table*}
 
-   \caption{ニューラルネットワークでの次元数100の170文に対する正答率（％）}
+   \caption{ニューラルネットワークでの次元数100の170文に対する正答率（\%）}
    \label{table:svm_100_170}
    \begin{center}
      \includegraphics[width=\linewidth]{svm_100_170.png}
@@ -179,7 +179,7 @@
  
 \begin{table*}
 
-   \caption{ニューラルネットワークでの次元数200の170文に対する正答率（％）}
+   \caption{ニューラルネットワークでの次元数200の170文に対する正答率（\%）}
    \label{table:svm_200_170}
    \begin{center}
      \includegraphics[width=\linewidth]{svm_200_170.png}
@@ -205,58 +205,6 @@
      \includegraphics[width=\linewidth]{48_compare.png}
    \end{center}
 \end{table*}
-\kueeseparator
- 
-\begin{figure*}
-
-   \begin{center}
-     \includegraphics[width=\linewidth]{6_1.png}
-   \end{center}
-   \caption{提案システムの模擬会話データでの可視化結果}
-   \label{fig:6_1}
-\end{figure*}
-\kueeseparator
- 
-\begin{figure*}
-
-   \begin{center}
-     \includegraphics[width=\linewidth]{4_2.png}
-   \end{center}
-   \caption{提案システムの構成}
-   \label{fig:4_2}
-\end{figure*}
-\kueeseparator
- 
-\begin{figure*}
-
-   \begin{center}
-     \includegraphics[width=\linewidth]{activity.png}
-   \end{center}
-   \caption{テキストデータ処理のアクティビティ図}
-   \label{fig:activity}
-\end{figure*}
-\kueeseparator
- 
-\begin{figure*}
-
-   \begin{center}
-     \includegraphics[width=\linewidth]{yomikomimae2.png}
-   \end{center}
-   \caption{会話データ読み込み前のシステムスクリーンショット}
-   \label{fig:yomikomimae2}
-\end{figure*}
-\kueeseparator
- 
-\begin{figure*}
-
-%\begin{landscape}
-   \begin{center}
-     \includegraphics[width=\linewidth]{5_2.png}
-   \end{center}
-   \caption{治療者発言初期分類方法}
-   \label{fig:5_2}
-%\end{landscape}
-\end{figure*}
 \kueeseparator
  
 \clearpage

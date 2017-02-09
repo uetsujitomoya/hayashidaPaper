@@ -5,51 +5,52 @@
   (アニマ2001, 1991).
 
 \bibitem{yogatherapygroup}
-T.~Asano, 認定ヨーガ療法士会, \url{http://yogatherapy-hyogo.net/lecture.html},
+
+\newblock 認定ヨーガ療法士会, \url{http://yogatherapy-hyogo.net/lecture.html},
   (2015).
 
 \bibitem{uetsuji}
-Atilika, Yahoo!知恵袋, \url{http://chiebukuro.yahoo.co.jp/}, (2012).
+上辻智也, 鎌田穣, 小山田耕二,
+  カウンセリングにおける会話の流れの可視化に関するユーザー評価,
+  第44回可視化情報シンポジウム2016論文集, (2016).
 
 \bibitem{ad2}
-H.~L. Ansbacher and R.~R. Ansbacher, {\em THE INDIVIDUAL PSYCHOLOGY OF ALFRED
+R.~R.~Ansbacher H.~L.~Ansbacher, {\em THE INDIVIDUAL PSYCHOLOGY OF ALFRED
   ADLER\/}, (Haper Row Publishers Inc, New York, 1956).
 
 \bibitem{110002934804}
-博順平, 隆文向内, 雅彦春野, Support vector machineによるテキスト分類,
+春野雅彦平博順, Support vector machineによるテキスト分類,
   情報処理学会研究報告自然言語処理（NL）, Vol. 1998, No.~99, (1998), pp.
   173--180.
 
 \bibitem{ShortText}
-Bharath Sriram, Dave Fuhry, Engin Demir, Hakan Ferhatosmanoglu, and Murat
-  Demirbas, Short text classification in twitter to improve information
-  filtering, {\em Proceedings of the 33rd International ACM SIGIR Conference on
-  Research and Development in Information Retrieval\/}, SIGIR '10, (ACM, New
-  York, NY, USA, 2010), pp. 841--842.
+D.~Engin S.~Bharath, F.~Dave, Short text classification in twitter to improve
+  information filtering, {\em Proceedings of the 33rd International ACM SIGIR
+  Conference on Research and Development in Information Retrieval\/}, SIGIR
+  '10, (ACM, New York, NY, USA, 2010), pp. 841--842.
 
 \bibitem{pylearn}
 佐々木稔永田純平, 文書分類をタスクとしたpylearn2のmaxout+dropout の利用,
   言語処理学会第21回年次大会, (2015), pp. 900--903.
 
 \bibitem{DBLP:journals/corr/abs-1301-3781}
-Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean, Efficient estimation
-  of word representations in vector space, {\em CoRR\/}, Vol. abs/1301.3781,
-  (2013).
+G.~Corrado T.~Mikolov, K.~Chen, Efficient estimation of word representations in
+  vector space, {\em CoRR\/}, Vol. abs/1301.3781, (2013).
 
 \bibitem{110009950250}
-健人野沢, 義貴中岡, 修平山本, 哲司佐藤,
+山本修平野沢健人,
   word2vecを用いた代替食材の発見手法の提案(データ工学と食メディア),
   電子情報通信学会技術研究報告. DE, データ工学, Vol. 114, No. 204, (2014), pp.
   41--46.
 
 \bibitem{cancellation}
 菅原拓夢, 笹野遼平, 高村大也, 奥村学, 単語の分散表現を用いた語義曖昧性解消,
-  言語処理学会発表論文集, Vol.21, (2015), (), pp. 648--651.
+  言語処理学会発表論文集, Vol.21, (2015), pp. 648--651.
 
 \bibitem{dcdwv}
-Xuewei~Zhang Chao~Xing, Dong~Wang, Document classification with distributions
-  of word vectors, {\em Asia-Pacific Signal and Information Processing
-  Association, 2014 Annual Summit and Conference\/}, ().
+X.~Zhang C.~Xing, D.~Wang, Document classification with distributions of word
+  vectors, {\em Asia-Pacific Signal and Information Processing Association,
+  2014 Annual Summit and Conference\/}, ().
 
 \bibitem{word2vec}
 加藤和平, 大島考範, 二宮崇, word2vecと深層学習を用いた大規模評判分析,
@@ -57,18 +58,23 @@ Xuewei~Zhang Chao~Xing, Dong~Wang, Document classification with distributions
 
 \bibitem{yahoo}
 
-\newblock Kuromoji morphological analyzer, \url{http://www.atilika.org},
-  (2012).
+\newblock Yahoo!知恵袋, \url{http://chiebukuro.yahoo.co.jp/}, (2016).
 
-\bibitem{kuromojijs}
-T.~Asano, kuromoji.js, \url{https://github.com/takuyaa/kuromoji.js}, (2015).
+\bibitem{Mecab}
 
-\bibitem{bostock2012d3}
-B.~Michael, D3. js, {\em Data Driven Documents\/}, (2012).
+\newblock Mecab, \url{http://taku910.github.io/mecab/}, (2013).
 
-\bibitem{taskdriven}
-E.~Alexander and M.~Gleicher, Task-driven comparison of topic models, {\em IEEE
-  TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS\/}, Vol.~22, No.~1,
-  (2016), pp. 320--329.
+\bibitem{linguistic-regularities-in-continuous-space-word-representations}
+Z.~Geoffrey M.~Tomas, Y. S. Wen-tau, Linguistic regularities in continuous
+  space word representations, {\em Proceedings of the 2013 Conference of the
+  North American Chapter of the Association for Computational Linguistics:
+  Human Language Technologies (NAACL-HLT-2013)\/}, (Association for
+  Computational Linguistics, 2013).
+
+\bibitem{paturn}
+阿部重夫, パターン認識のためのサポートベクトルマシン入門, (森北出版, 2011).
+
+\bibitem{newralnetwork}
+熊沢逸夫, 学習とニューラルネットワーク, (森北出版, 1998).
 
 \end{thebibliography}
