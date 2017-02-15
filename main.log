@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.sjis) (TeX Live 2016/W32TeX) (preloaded format=platex 2017.1.29)  15 FEB 2017 16:42
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.sjis) (TeX Live 2016/W32TeX) (preloaded format=platex 2017.1.29)  15 FEB 2017 17:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -904,57 +904,55 @@ File: ./image/BunNoVectorkaNoNagare.png Graphic file (type bmp)
 <./image/BunNoVectorkaNoNagare.png> [24] [25]
 File: ./image/hayashida4_1.png Graphic file (type bmp)
  <./image/hayashida4_1.png>
-File: ./image/hayashida4_2.png Graphic file (type bmp)
+File: ./image/new4_2.png Graphic file (type bmp)
 
-<./image/hayashida4_2.png>
-File: ./image/hayashida4_3.png Graphic file (type bmp)
- <./image/hayashida4_3.png>
-File: ./image/hayashida4_4.png Graphic file (type bmp)
+<./image/new4_2.png>
+File: ./image/new4_3.png Graphic file (type bmp)
+ <./image/new4_3.png>
+File: ./image/new4_4.png Graphic file (type bmp)
+ <./image/new4_4.png>
+File: ./image/new4_5.png Graphic file (type bmp)
 
-<./image/hayashida4_4.png>
-File: ./image/hayashida4_5.png Graphic file (type bmp)
- <./image/hayashida4_5.png>
-File: ./image/hayashida4_6.png Graphic file (type bmp)
+<./image/new4_5.png>
+File: ./image/new4_6.png Graphic file (type bmp)
+ <./image/new4_6.png>
+File: ./image/new4_7.png Graphic file (type bmp)
+ <./image/new4_7.png>
+File: ./image/new4_8.png Graphic file (type bmp)
 
-<./image/hayashida4_6.png>
-File: ./image/hayashida4_7.png Graphic file (type bmp)
- <./image/hayashida4_7.png>
-File: ./image/hayashida4_8.png Graphic file (type bmp)
-
-<./image/hayashida4_8.png>
-File: ./image/hayashida4_9.png Graphic file (type bmp)
- <./image/hayashida4_9.png>
-File: ./image/hayashida4_10.png Graphic file (type bmp)
-
-<./image/hayashida4_10.png>
+<./image/new4_8.png>
+File: ./image/new4_9.png Graphic file (type bmp)
+ <./image/new4_9.png>
+File: ./image/new4_10.png Graphic file (type bmp)
+ <./image/new4_10.png>
 File: ./image/nn_30_170.png Graphic file (type bmp)
- <./image/nn_30_170.png>
+
+<./image/nn_30_170.png>
 File: ./image/nn_40_170.png Graphic file (type bmp)
  <./image/nn_40_170.png>
 File: ./image/nn_50_170.png Graphic file (type bmp)
-
-<./image/nn_50_170.png>
+ <./image/nn_50_170.png>
 File: ./image/nn_100_170.png Graphic file (type bmp)
- <./image/nn_100_170.png>
+
+<./image/nn_100_170.png>
 File: ./image/nn_200_170.png Graphic file (type bmp)
  <./image/nn_200_170.png>
 File: ./image/hayashida4_16.png Graphic file (type bmp)
-
-<./image/hayashida4_16.png>
+ <./image/hayashida4_16.png>
 File: ./image/hayashida4_17.png Graphic file (type bmp)
- <./image/hayashida4_17.png> [26] [27] [28] [29]
-[30] [31] [32]) (./main.aux)
+
+<./image/hayashida4_17.png> [26] [27] [28] [29] [30] [31] [32]) (./main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
  1718 strings out of 493671
- 21424 string characters out of 6151255
+ 21262 string characters out of 6151255
  85081 words of memory out of 5000000
  5246 multiletter control sequences out of 15000+600000
  23752 words of font info for 90 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  28i,8n,24p,3116b,404s stack positions out of 5000i,500n,10000p,500000b,80000s
 
-Output written on main.dvi (34 pages, 100128 bytes).
+Output written on main.dvi (34 pages, 100072 bytes).
