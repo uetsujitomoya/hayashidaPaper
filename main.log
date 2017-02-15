@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.sjis) (TeX Live 2016/W32TeX) (preloaded format=platex 2017.1.29)  9 FEB 2017 19:26
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.sjis) (TeX Live 2016/W32TeX) (preloaded format=platex 2017.1.29)  15 FEB 2017 16:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -135,23 +135,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 (c:/w32tex/share/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-) (./main.aux
-
-LaTeX Warning: Label `table:svm_30_170' multiply defined.
-
-
-LaTeX Warning: Label `table:svm_40_170' multiply defined.
-
-
-LaTeX Warning: Label `table:svm_50_170' multiply defined.
-
-
-LaTeX Warning: Label `table:svm_100_170' multiply defined.
-
-
-LaTeX Warning: Label `table:svm_200_170' multiply defined.
-
-)
+) (./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
@@ -256,21 +240,15 @@ Overfull \hbox (2.03458pt too wide) in paragraph at lines 12--13
  []
 
 
-Overfull \hbox (7.35387pt too wide) in paragraph at lines 12--13
-\JY1/mc/m/n/12 っ た分類結果に関しては ， ユ ーザ ーである熟練カウンセラ ーがシ
-ステム上で分類結果
- []
-
-
 Overfull \hbox (4.2064pt too wide) in paragraph at lines 12--13
-\JY1/mc/m/n/12 を確認し ， 誤 っ た分類がなされている箇所を手動修正する必要があ
-り， 作業の負担が
+\JY1/mc/m/n/12 認し ， 誤 っ た分類がなされている箇所を手動修正する必要があり，
+ 作業の負担が大き
  []
 
 
-Overfull \hbox (6.66438pt too wide) in paragraph at lines 14--16
-\JY1/mc/m/n/12 カテゴリ分類を行うことができるか検証を行う． 本論文の構成は次の
-通りである ． 第
+Overfull \hbox (2.78436pt too wide) in paragraph at lines 16--17
+\JY1/mc/m/n/12 可視化システムにおける分類結果との比較を行い ， その結果を基に考
+察を行う． 第 \OT1/cmr/m/n/12 5
  []
 
 ) [2]
@@ -318,57 +296,58 @@ Overfull \hbox (1.74255pt too wide) in paragraph at lines 21--22
  []
 
 
-Overfull \hbox (7.90436pt too wide) in paragraph at lines 21--22
-\JY1/mc/m/n/12 や場所についての記載が多い ， などのカテゴリ毎の \OT1/cmr/m/n/12
+Overfull \hbox (8.13588pt too wide) in paragraph at lines 21--22
+\JY1/mc/m/n/12 や場所についての記載が多いとい っ たカテゴリ毎の \OT1/cmr/m/n/12
  Tweet \JY1/mc/m/n/12 の特徴が顕著であるが ， 本
- []
-
-
-Overfull \hbox (2.81187pt too wide) in paragraph at lines 21--22
-\JY1/mc/m/n/12 時間が膨大になる問題がある \OT1/cmr/m/n/12 Bag-of-words \JY1/mc/
-m/n/12 によるベクトルを次元圧縮したものを用
  []
 
 [3
 
 ]
-Overfull \hbox (1.49498pt too wide) in paragraph at lines 23--24
+Overfull \hbox (1.49498pt too wide) in paragraph at lines 25--26
 \JY1/mc/m/n/12 提案した ． \OT1/cmr/m/n/12 word2vec \JY1/mc/m/n/12 では数百次元
 程度の密なベクトルで単語を高い精度で表現する
  []
 
 
-Overfull \hbox (16.45197pt too wide) in paragraph at lines 23--24
+Overfull \hbox (16.45197pt too wide) in paragraph at lines 25--26
 \JY1/mc/m/n/12 可能であり， 日本語の研究として単語の意味を取り扱う研究が行われ
 ている ． 野沢ら $[]$
  []
 
 
-Overfull \hbox (8.92154pt too wide) in paragraph at lines 23--24
+Overfull \hbox (8.92154pt too wide) in paragraph at lines 25--26
 \JY1/mc/m/n/12 は ， 大量のレシピデ ータから食材と調理法を抽出し ， \OT1/cmr/m/
 n/12 word2vec \JY1/mc/m/n/12 で学習させ ， \OT1/cmr/m/n/12 word2vec
  []
 
 
-Overfull \hbox (1.07417pt too wide) in paragraph at lines 23--24
+Overfull \hbox (1.07417pt too wide) in paragraph at lines 25--26
 \JY1/mc/m/n/12 で得られた単語ベクトルから各単語に類似する単語を算出し代替食材を
 発見する手
  []
 
 
-Overfull \hbox (0.94748pt too wide) in paragraph at lines 25--26
-[]\JY1/mc/m/n/12 日本語以外を取り扱う， \OT1/cmr/m/n/12 word2vec \JY1/mc/m/n/12
- により得た単語ベクトルを基にした文書分類で
+Overfull \hbox (1.69667pt too wide) in paragraph at lines 27--28
+[]\OT1/cmr/m/n/12 word2vec \JY1/mc/m/n/12 により得た単語ベクトルを基にした日本
+語以外を取り扱 っ た文書分類の
  []
 
 
-Overfull \hbox (4.41547pt too wide) in paragraph at lines 27--28
+Overfull \hbox (5.85625pt too wide) in paragraph at lines 27--28
+\JY1/mc/m/n/12 イ ーブベイズ ， \OT1/cmr/m/n/12 k \JY1/mc/m/n/12 近傍法 ， \OT1
+/cmr/m/n/12 Sup-port Vec-tor Ma-chine (SVM) \JY1/mc/m/n/12 を用い ， その結果 \
+OT1/cmr/m/n/12 word2vec
+ []
+
+
+Overfull \hbox (4.41547pt too wide) in paragraph at lines 29--30
 \JY1/mc/m/n/12 用いて評判分析を行い ， \OT1/cmr/m/n/12 1-of-K \JY1/mc/m/n/12 ベ
 クトルを用いたロジステ ィ ッ ク回帰の性能とほぼ同
  []
 
 
-Overfull \hbox (1.46515pt too wide) in paragraph at lines 29--30
+Overfull \hbox (1.46515pt too wide) in paragraph at lines 31--32
 []\JY1/mc/m/n/12 本研究における手法として ， \OT1/cmr/m/n/12 word2vec \JY1/mc/m
 /n/12 により単語の分散表現を学習して得た単語
  []
@@ -386,402 +365,430 @@ LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <17.28> not available
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 21.
 
-Overfull \hbox (31.8953pt too wide) in paragraph at lines 23--25
+Overfull \hbox (31.8953pt too wide) in paragraph at lines 23--24
 \JY1/mc/m/n/12 談に関する文章をコ ーパスとして ， \OT1/cmr/m/n/12 word2vec \JY1
 /mc/m/n/12 を用いて ， 単語のベクトルを得る ． \OT1/cmr/m/n/12 word2vec
  []
 
 
-Overfull \hbox (5.99153pt too wide) in paragraph at lines 23--25
+Overfull \hbox (5.99153pt too wide) in paragraph at lines 23--24
 \JY1/mc/m/n/12 により得た単語のベクトルを基に ， \OT1/cmr/m/n/12 3 \JY1/mc/m/n/
 12 つのどのカテゴリに属しているかのラベルを持
  []
 
 
-Overfull \hbox (7.18205pt too wide) in paragraph at lines 23--25
+Overfull \hbox (7.18205pt too wide) in paragraph at lines 23--24
 \JY1/mc/m/n/12 トル化し ， これに正解カテゴリを付与したものをテストデ ータとす
 る ． 教師付きデ ー
  []
 
 
-Overfull \hbox (9.35388pt too wide) in paragraph at lines 28--29
-\JY1/mc/m/n/12 れぞれ異なるものがほとんどであり， 入力するテキストデ ータを固定
-長のベクトルで
+Overfull \hbox (9.35388pt too wide) in paragraph at lines 27--28
+\JY1/mc/m/n/12 それぞれ異なるものが大半であり， 入力するテキストデ ータを固定長
+のベクトルで表
  []
 
 
-Overfull \hbox (6.66438pt too wide) in paragraph at lines 28--29
-\JY1/mc/m/n/12 度の次元になり， 学習を行う際に計算時間が膨大になる ． このよう
-な次元数の大きい
+Overfull \hbox (6.66438pt too wide) in paragraph at lines 27--28
+\JY1/mc/m/n/12 元になり， 学習を行う際に計算時間が膨大になる ． このような次元
+数の大きいベクト
  []
 
 
-Overfull \hbox (38.64511pt too wide) in paragraph at lines 28--29
-\JY1/mc/m/n/12 械学習を行う際に扱うテキストデ ータには数万以上の語彙数が含まれ
-ているため \OT1/cmr/m/n/12 word2vec
+Overfull \hbox (1.49498pt too wide) in paragraph at lines 27--28
+\JY1/mc/m/n/12 を用いて単語のベクトル化を行うこととする ． \OT1/cmr/m/n/12 word
+2vec \JY1/mc/m/n/12 に学習させるコ ーパスとし
+ []
+
+
+Overfull \hbox (1.5655pt too wide) in paragraph at lines 27--28
+\JY1/mc/m/n/12 て ， \OT1/cmr/m/n/12 Wikipedia \JY1/mc/m/n/12 やニ ュ ース記事
+のような大規模デ ータが用いられることが多い ． そこ
+ []
+
+
+Overfull \hbox (9.87155pt too wide) in paragraph at lines 27--28
+\JY1/mc/m/n/12 から得られた単語の分散表現を用いて機械学習などを用いて分類を行う
+研究では ， 分
+ []
+
+
+Overfull \hbox (8.43927pt too wide) in paragraph at lines 27--28
+\JY1/mc/m/n/12 キストデ ータはカウンセリングデ ータで会話文である ． \OT1/cmr/m
+/n/12 Wikipedia \JY1/mc/m/n/12 やニ ュ ース記事は ，
+ []
+
+
+Overfull \hbox (6.66438pt too wide) in paragraph at lines 27--28
+\JY1/mc/m/n/12 い ． しかしカウンセリングデ ータは会話文であるため固有名詞は少
+なく， 感情を表す
+ []
+
+
+Overfull \hbox (20.84076pt too wide) in paragraph at lines 27--28
+\JY1/mc/m/n/12 ストデ ータはあまり多く存在しておらず， 且つプライベ ートな内容
+であるためインタ ー
+ []
+
+
+Overfull \hbox (1.5169pt too wide) in paragraph at lines 27--28
+\JY1/mc/m/n/12 ネ ッ トなどでは公開されておらず， 収集するのが困難である ． そ
+こで ， カウンセリン
+ []
+
+
+Overfull \hbox (3.97702pt too wide) in paragraph at lines 27--28
+\JY1/mc/m/n/12 セリングデ ータに比較的内容が近いと思われる \OT1/cmr/m/n/12 Ya-h
+oo!\JY1/mc/m/n/12 知恵袋に投稿されたものの中
  []
 
 [6
 
-]
-Overfull \hbox (0.32973pt too wide) in paragraph at lines 30--31
-[]\OT1/cmr/m/n/12 word2vec \JY1/mc/m/n/12 に学習させるコ ーパスとしては \OT1/cm
-r/m/n/12 Wikipedia \JY1/mc/m/n/12 やニ ュ ース記事のような大規
- []
-
-
-Overfull \hbox (1.5655pt too wide) in paragraph at lines 30--31
-\JY1/mc/m/n/12 デ ータであり会話文である ． \OT1/cmr/m/n/12 Wikipedia \JY1/mc/m
-/n/12 やニ ュ ース記事は ， 固有名詞が比較的多く出
- []
-
-
-Overfull \hbox (9.35388pt too wide) in paragraph at lines 30--31
-\JY1/mc/m/n/12 グデ ータは会話文であるため固有名詞は少なく， 感情を表す形容詞は
-比較的多く含ま
- []
-
-
-Overfull \hbox (6.8959pt too wide) in paragraph at lines 30--31
-\JY1/mc/m/n/12 存在しておらず， 且つプライベ ートな内容であるためインタ ーネ ッ
- トなどでは公開さ
- []
-
-
-Overfull \hbox (3.97488pt too wide) in paragraph at lines 30--31
-\JY1/mc/m/n/12 れておらず， 収集するのが困難である ． そこで ， カウンセリング
-デ ータとより似た内
- []
-
-
-Overfull \hbox (3.97702pt too wide) in paragraph at lines 30--31
-\JY1/mc/m/n/12 的内容が近いと思われる \OT1/cmr/m/n/12 Ya-hoo!\JY1/mc/m/n/12 知
-恵袋に投稿されたものの中で悩み相談に関するカ
- []
-
-[7]
-Overfull \hbox (3.25677pt too wide) in paragraph at lines 32--33
+] [7]
+Overfull \hbox (3.25677pt too wide) in paragraph at lines 29--30
 []\JY1/mc/m/n/12 次に \OT1/cmr/m/n/12 word2vec \JY1/mc/m/n/12 で学習を行う際の
 パラメ ータについて述べる ． ベクトルの次元数に
  []
 
 
-Overfull \hbox (4.03442pt too wide) in paragraph at lines 36--37
-[]\JY1/mc/m/n/12 次に \OT1/cmr/m/n/12 3.2 \JY1/mc/m/n/12 節で述べた単語の分散表
-現を用いて ， 文をベクトルに変換する ． \OT1/cmr/m/n/12 word2vec
+Overfull \hbox (8.87791pt too wide) in paragraph at lines 29--30
+\JY1/mc/m/n/12 ズムとして \OT1/cmr/m/n/12 cbow \JY1/mc/m/n/12 モデルもしくは \O
+T1/cmr/m/n/12 Skip-gram \JY1/mc/m/n/12 モデルを選択できるが ， 本研究では \OT1/
+cmr/m/n/12 Skip-
  []
 
 
-Overfull \hbox (2.56894pt too wide) in paragraph at lines 36--37
-\JY1/mc/m/n/12 により単語の分散表現を得た際と同様にして ， まず文を単語毎に区切
-る必要がある ．
+Overfull \hbox (7.18205pt too wide) in paragraph at lines 31--32
+\JY1/mc/m/n/12 より単語の分散表現を得た際と同様にして ， まず文を単語毎に区切る
+必要がある ． 次
  []
 
 
-Overfull \hbox (5.9761pt too wide) in paragraph at lines 36--37
-\JY1/mc/m/n/12 そして文中に出現する各単語のベクトルを \OT1/cmr/m/n/12 word2vec 
-\JY1/mc/m/n/12 により得た分散表現から見つけ
+Overfull \hbox (3.2866pt too wide) in paragraph at lines 31--32
+\JY1/mc/m/n/12 に ， 文中に出現する各単語のベクトルを \OT1/cmr/m/n/12 word2vec 
+\JY1/mc/m/n/12 により得た分散表現から見つけ出
  []
 
 
-Overfull \hbox (4.09576pt too wide) in paragraph at lines 36--37
-\JY1/mc/m/n/12 出し ， それを用いて文ベクトル化を行う． 具体例として ， 「 母と
-もよく喧嘩しますし ． 」
- []
-
-
-Overfull \hbox (6.22067pt too wide) in paragraph at lines 38--39
+Overfull \hbox (6.22067pt too wide) in paragraph at lines 33--34
 [] \JY1/mc/m/n/12 「 母ともよく喧嘩しますし ． 」 という文に対して形態素解析に
 より単語毎の分か
  []
 
 
-Overfull \hbox (5.99423pt too wide) in paragraph at lines 39--40
-\JY1/mc/m/n/12 習したモデルから取り出す． ただし文末の句点とクエスチ ョ ンマ ー
-クは除い た ． 
- []
-
-
-Overfull \hbox (1.57845pt too wide) in paragraph at lines 42--43
+Overfull \hbox (1.57845pt too wide) in paragraph at lines 37--38
 []\JY1/mc/m/n/12 各文の長さは異なり， また単語の数も異なるので ， 足し合わせた
 単語数で各次
  []
 
 [8]
-Overfull \hbox (9.35388pt too wide) in paragraph at lines 58--59
-\JY1/mc/m/n/12 単語ベクトルの単純な和の平均として文章ベクトルを作成する手法によ
-り， 分類精度
+Overfull \hbox (9.35388pt too wide) in paragraph at lines 49--50
+\JY1/mc/m/n/12 語ベクトルの単純な和の平均として文章ベクトルを作成する手法により
+， 分類精度が
  []
 
 
-Overfull \hbox (6.66438pt too wide) in paragraph at lines 62--63
-\JY1/mc/m/n/12 き学習であり， 教師付き学習とは ， 入力のデ ータに対して出力が指
-定されて学習を行
+Overfull \hbox (6.66438pt too wide) in paragraph at lines 51--53
+\JY1/mc/m/n/12 行う機械学習は教師付き学習であり， 教師付き学習とは ， 入力のデ 
+ータに対して出力
  []
 
 
-Overfull \hbox (3.97488pt too wide) in paragraph at lines 62--63
-\JY1/mc/m/n/12 出力させることで ， 自動カテゴリ分類を行う． 本研究では ， 機械
-学習に用いるアルゴ
+Overfull \hbox (1.28539pt too wide) in paragraph at lines 51--53
+\JY1/mc/m/n/12 し ， 予測カテゴリを出力させることで ， 自動カテゴリ分類を行う．
+ 本研究では ， 機械
  []
 
 
-Overfull \hbox (5.99153pt too wide) in paragraph at lines 62--63
-\JY1/mc/m/n/12 力デ ータが完全に線形分離可能であると仮定して ， \OT1/cmr/m/n/12
- 1 \JY1/mc/m/n/12 つの誤分類も許容せずに分離超
+Overfull \hbox (3.30203pt too wide) in paragraph at lines 51--53
+\JY1/mc/m/n/12 のパタ ーン識別機を構成する手法である ． \OT1/cmr/m/n/12 2 \JY1/
+mc/m/n/12 つのカテゴリに分類を行う際に ， ハ ード
+ []
+
+
+Overfull \hbox (1.15695pt too wide) in paragraph at lines 51--53
+\JY1/mc/m/n/12 マ ージン \OT1/cmr/m/n/12 SVM \JY1/mc/m/n/12 では入力デ ータが完
+全に線形分離可能であると仮定して ， \OT1/cmr/m/n/12 1 \JY1/mc/m/n/12 つの誤分
+ []
+
+
+Overfull \hbox (13.93744pt too wide) in paragraph at lines 51--53
+\JY1/mc/m/n/12 類も許容せずに分離超平面を決定する ． つまり， \OT1/cmr/m/n/12 M
+ \JY1/mc/m/n/12 個の \OT1/cmr/m/n/12 m \JY1/mc/m/n/12 次元教師付きデ ータ $\OML
+/cmm/m/it/12 x[]$\OT1/cmr/m/n/12 (i=1\JY1/mc/m/n/12 ，
  []
 
 [9]
-Overfull \hbox (7.41357pt too wide) in paragraph at lines 78--81
+Overfull \hbox (7.41357pt too wide) in paragraph at lines 68--71
 \JY1/mc/m/n/12 を最小にするような最適化問題を考え分離超平面を決定する ． したが
  っ てハ ードマ ー
  []
 
 
-Overfull \hbox (6.66438pt too wide) in paragraph at lines 78--81
+Overfull \hbox (6.66438pt too wide) in paragraph at lines 68--71
 \JY1/mc/m/n/12 定するパラメ ータであり， 分離超平面の決定に大きな影響を与えるた
 め ， 適切に設定
  []
 
 
-Overfull \hbox (1.07417pt too wide) in paragraph at lines 78--81
+Overfull \hbox (1.07417pt too wide) in paragraph at lines 68--71
 \JY1/mc/m/n/12 合には入力空間を高次元の特徴空間に写像して特徴空間上でマ ージン
 が最大となる
  []
 
 
-Overfull \hbox (2.05127pt too wide) in paragraph at lines 78--81
-\JY1/mc/m/n/12 ように超平面を決定する方式がよく用いられており， カ ーネル法とよ
-ばれているが ，
+Overfull \hbox (9.35388pt too wide) in paragraph at lines 68--71
+\JY1/mc/m/n/12 ように超平面を決定するカ ーネル法とよばれている方式がよく用いら
+れており， 本研
  []
 
-[10]
-Overfull \hbox (3.5974pt too wide) in paragraph at lines 91--94
+
+Overfull \hbox (3.5974pt too wide) in paragraph at lines 81--84
 \JY1/mc/m/n/12 で表されるラジアル基底関数カ ーネル \OT1/cmr/m/n/12 (rbf) \JY1/m
 c/m/n/12 を用いた ． ここでγは分布の半径を制御
  []
 
 
-Overfull \hbox (11.59677pt too wide) in paragraph at lines 91--94
+Overfull \hbox (11.59677pt too wide) in paragraph at lines 81--84
 \JY1/mc/m/n/12 するパラメ ータであり， \OT1/cmr/m/n/12 rbf \JY1/mc/m/n/12 カ ー
 ネルにおいて超平面の決定に大きな影響を与える ． ま
  []
 
-
-Overfull \hbox (2.49762pt too wide) in paragraph at lines 95--97
+[10])
+Overfull \hbox (2.49762pt too wide) in paragraph at lines 85--29
 \JY1/mc/m/n/12 数持つ多層ニ ュ ーラルネ ッ トワ ークである ． また全てのノ ード
 同士がリンクによ っ て
  []
 
 
-Overfull \hbox (9.35388pt too wide) in paragraph at lines 95--97
+Overfull \hbox (9.35388pt too wide) in paragraph at lines 85--29
 \JY1/mc/m/n/12 間のリンクの重みやノ ードの閾値を最適化するように学習を行う． 本
 研究では入力層
  []
 
 
-Overfull \hbox (4.2064pt too wide) in paragraph at lines 95--97
+Overfull \hbox (4.2064pt too wide) in paragraph at lines 85--29
 \JY1/mc/m/n/12 の層数 ， ノ ード数は可変なパラメ ータとしており， このパラメ ー
 タによ っ て精度が変
  []
 
-)
-Overfull \hbox (2.601pt too wide) in paragraph at lines 98--29
-\JY1/mc/m/n/12 学習の入力として学習を行う． そして学習後のモデルにテストデ ータ
-を入力し ， 「 愛 」
+
+Overfull \hbox (0.55585pt too wide) in paragraph at lines 85--29
+\JY1/mc/m/n/12 わるため ， \OT1/cmr/m/n/12 SVM \JY1/mc/m/n/12 と同様に後述の実
+験により最適なパラメ ータを求める ． 本研究での
  []
 
 [11]
 第{4}章.
 (./chapter4.tex
-Overfull \hbox (6.66438pt too wide) in paragraph at lines 142--144
-\JY1/mc/m/n/12 の可視化システムにおける分類手法との比較を行う． さらに ， 実験
-結果に対する考察
+Overfull \hbox (10.84865pt too wide) in paragraph at lines 142--143
+\JY1/mc/m/n/12 関する実験 ， 会話の流れの可視化システムにおける分類手法との比較
+を行う． さらに ，
  []
 
 
-Overfull \hbox (3.21552pt too wide) in paragraph at lines 147--156
-[]\JY1/mc/m/n/12 本研究で機械学習を行うために使用したライブラリについて述べる 
-． \OT1/cmr/m/n/12 SVM \JY1/mc/m/n/12 による
+Overfull \hbox (1.46515pt too wide) in paragraph at lines 149--150
+[]\JY1/mc/m/n/12 次に本研究の実験で使用したテキストデ ータについて述べる ． \OT
+1/cmr/m/n/12 word2vec \JY1/mc/m/n/12 の学習に
  []
 
 
-Overfull \hbox (1.0038pt too wide) in paragraph at lines 147--156
-\JY1/mc/m/n/12 学習を行うために ， オ ープンソ ースの機械学習ライブラリである \
-OT1/cmr/m/n/12 scikit-learn \JY1/mc/m/n/12 を使用
+Overfull \hbox (6.66438pt too wide) in paragraph at lines 149--150
+\JY1/mc/m/n/12 ある ． 本研究における分類対象はクライエントの発言内容であり， 
+相談することを目
  []
 
 
-Overfull \hbox (0.76985pt too wide) in paragraph at lines 147--156
-\JY1/mc/m/n/12 発言内容であり， 相談することを目的として \OT1/cmr/m/n/12 Ya-hoo
-!\JY1/mc/m/n/12 知恵袋に投稿した投稿者の質問
+Overfull \hbox (3.97702pt too wide) in paragraph at lines 149--150
+\JY1/mc/m/n/12 的として \OT1/cmr/m/n/12 Ya-hoo!\JY1/mc/m/n/12 知恵袋に投稿した
+投稿者の質問文が内容的に比較的類似しているた
+ []
+
+
+Overfull \hbox (0.8227pt too wide) in paragraph at lines 151--152
+[]\JY1/mc/m/n/12 機械学習の教師デ ータに用いたテキストデ ータは ，  \OT1/cmr/m/
+n/12 Ya-hoo!\JY1/mc/m/n/12 知恵袋の ， 「 家族関係の
+ []
+
+
+Overfull \hbox (9.82765pt too wide) in paragraph at lines 154--155
+\JY1/mc/m/n/12 とである ． 「 家族関係の悩み 」 カテゴリから取得した質問文 \OT1
+/cmr/m/n/12 1 \JY1/mc/m/n/12 文毎の文ベクトルに 「 愛 」
  []
 
 [12
 
 ]
-Overfull \hbox (6.66438pt too wide) in paragraph at lines 160--162
-\JY1/mc/m/n/12 ストデ ータに対して ， 正しいカテゴリを出力した割合であり， テス
-トデ ータのうち正
+Overfull \hbox (6.66438pt too wide) in paragraph at lines 166--167
+\JY1/mc/m/n/12 のテストデ ータに対して ， 正しいカテゴリを出力した割合であり， 
+テストデ ータのう
  []
 
 
-Overfull \hbox (5.50983pt too wide) in paragraph at lines 164--167
+Overfull \hbox (3.94556pt too wide) in paragraph at lines 166--167
+\JY1/mc/m/n/12 ち正解カテゴリと同じ出力をした数を \OT1/cmr/m/n/12 T\JY1/mc/m/n/
+12 ， 正解カテゴリと異なる出力した数を \OT1/cmr/m/n/12 F\JY1/mc/m/n/12 ， 正
+ []
+
+
+Overfull \hbox (5.50983pt too wide) in paragraph at lines 169--172
 \JY1/mc/m/n/12 と表すことができる ． これらのテキストデ ータ， 評価指標を用いて
 以下に述べる実験
  []
 
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 170.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 175.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 170.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 175.
 
-Overfull \hbox (0.43628pt too wide) in paragraph at lines 172--173
-\JY1/mc/m/n/12 手法の精度を高めるために ， パラメ ータを調整する実験を行う． \O
-T1/cmr/m/n/12 3.4 \JY1/mc/m/n/12 節で述べたよう
+Overfull \hbox (0.43628pt too wide) in paragraph at lines 177--178
+\JY1/mc/m/n/12 精度を高めるために ， パラメ ータを調整する実験をそれぞれ行う． 
+\OT1/cmr/m/n/12 3.4 \JY1/mc/m/n/12 節で述べたよ
  []
 
 
-Overfull \hbox (10.33098pt too wide) in paragraph at lines 172--173
-\JY1/mc/m/n/12 も変えて実験を行う． 以下にパラメ ータ調整のための実験内容の詳細
-を述べる ． まず，
+Overfull \hbox (2.05127pt too wide) in paragraph at lines 177--178
+\JY1/mc/m/n/12 元数も変えて実験を行う． 以下にパラメ ータ調整の実験内容の詳細に
+ついて述べ る ． 
  []
 
-
-Overfull \hbox (3.2974pt too wide) in paragraph at lines 172--173
-\JY1/mc/m/n/12 元数である ， \OT1/cmr/m/n/12 3.2 \JY1/mc/m/n/12 節で述べた手順
-で \OT1/cmr/m/n/12 word2vec \JY1/mc/m/n/12 により得る単語ベクトルの次元数を \OT
-1/cmr/m/n/12 30\JY1/mc/m/n/12 ，
- []
-
-
-Overfull \hbox (1.07417pt too wide) in paragraph at lines 172--173
+[13]
+Overfull \hbox (1.07417pt too wide) in paragraph at lines 181--182
 \JY1/mc/m/n/12 デ ータに対する精度とテストデ ータに対する精度が共に高くなるよう
 に適切に選ぶ
  []
 
 
-Overfull \hbox (18.15126pt too wide) in paragraph at lines 172--173
-\JY1/mc/m/n/12 する実験を行う． 続いて ， 上で述べた分類手法の精度を高めるため
-に調整したパラメ ー
- []
-
-[13]
-Overfull \hbox (2.53911pt too wide) in paragraph at lines 174--175
-[]\JY1/mc/m/n/12 また ， 本研究と会話の流れの可視化システムにおける分類手法それ
-ぞれに対して ，
+Overfull \hbox (6.66438pt too wide) in paragraph at lines 181--182
+\JY1/mc/m/n/12 験を行う． 続いて ， 上で述べた手法の分類精度を高めるために調整
+したパラメ ータの
  []
 
 
-Overfull \hbox (7.09694pt too wide) in paragraph at lines 178--197
-[]\JY1/mc/m/n/12 学習アルゴリズムとして ， \OT1/cmr/m/n/12 SVM \JY1/mc/m/n/12 
-とニ ュ ーラルネ ッ トワ ークを用いたそれぞれで ， 前
+Overfull \hbox (4.72408pt too wide) in paragraph at lines 181--182
+\JY1/mc/m/n/12 中で最も正答率の高か っ たパラメ ータを用いて ， 正答率を分類精
+度の指標として ， 本
  []
 
-[14] [15]
-Overfull \hbox (2.43791pt too wide) in paragraph at lines 202--203
-\JY1/mc/m/n/12 ッ トワ ークを用いた分類手法の正答率が低い理由としては 、 ニ ュ 
-ーラルネ ッ トワ ーク
- []
-
-
-Overfull \hbox (4.9556pt too wide) in paragraph at lines 202--203
-\JY1/mc/m/n/12 の学習が学習デ ータに対して過学習を起こしていると考える ． ニ ュ
- ーラルネ ッ トワ ー
+[14]
+Overfull \hbox (0.11009pt too wide) in paragraph at lines 189--190
+\JY1/mc/m/n/12 て最も正答率が高か っ たのは ， ベクトル次元数 \OT1/cmr/m/n/12 3
+0\JY1/mc/m/n/12 ，  \OT1/cmr/m/n/12 rbf \JY1/mc/m/n/12 カ ーネル ， \OT1/cmr/m/
+n/12 C=1\JY1/mc/m/n/12 ，  $\OML/cmm/m/it/12 ^^M$ \OT1/cmr/m/n/12 =0.00001
  []
 
 
-Overfull \hbox (7.48166pt too wide) in paragraph at lines 202--203
-\JY1/mc/m/n/12 クにおいてどの次元数 ， パラメ ータにおいても ， 学習デ ータに対
-しては正答率が \OT1/cmr/m/n/12 80%
+Overfull \hbox (3.7477pt too wide) in paragraph at lines 196--201
+\OT1/cmr/m/n/12 rbf \JY1/mc/m/n/12 カ ーネルの方が \OT1/cmr/m/n/12 lin-ear \JY1
+/mc/m/n/12 カ ーネルよりも高い正答率を示した ． \OT1/cmr/m/n/12 C \JY1/mc/m/n/1
+2 に関して ， \OT1/cmr/m/n/12 C=1000
  []
 
 
-Overfull \hbox (2.92825pt too wide) in paragraph at lines 202--203
-\JY1/mc/m/n/12 を超えているが ， クライエントの発言に対しての正答率は平均して \
-OT1/cmr/m/n/12 10%\JY1/mc/m/n/12 ほどである ．
+Overfull \hbox (21.69702pt too wide) in paragraph at lines 196--201
+\JY1/mc/m/n/12 の場合は正答率が低い場合が多か っ た ．  $\OML/cmm/m/it/12 ^^M$ 
+\OT1/cmr/m/n/12 =0.001\JY1/mc/m/n/12 ，  \OT1/cmr/m/n/12 0.1 \JY1/mc/m/n/12 と
+比較的大きい場合と ， \OT1/cmr/m/n/12 0.000001
  []
 
 
-Overfull \hbox (1.28752pt too wide) in paragraph at lines 202--203
-\JY1/mc/m/n/12 学習デ ータに用いた \OT1/cmr/m/n/12 Ya-hoo!\JY1/mc/m/n/12 知恵袋
-の質問文は ， 投稿者がどのカテゴリにどのような
+Overfull \hbox (0.6424pt too wide) in paragraph at lines 202--204
+[]\JY1/mc/m/n/12 ニ ュ ーラルネ ッ トワ ークを用いた \OT1/cmr/m/n/12 170 \JY1/m
+c/m/n/12 文に対する実験結果について述べる ． ニ ュ ー
  []
 
 
-Overfull \hbox (6.66438pt too wide) in paragraph at lines 204--205
+Overfull \hbox (0.58939pt too wide) in paragraph at lines 205--210
+\JY1/mc/m/n/12 は誤 っ たカテゴリに分類したとみなして正答率を算出している ． 結
+果より， \OT1/cmr/m/n/12 170 \JY1/mc/m/n/12 文と
+ []
+
+
+Overfull \hbox (3.06909pt too wide) in paragraph at lines 205--210
+\OT1/cmr/m/n/12 48 \JY1/mc/m/n/12 文に対して共に会話の流れの可視化システムにお
+ける分類手法よりも本研究にお
+ []
+
+[15]
+Overfull \hbox (4.85187pt too wide) in paragraph at lines 213--214
+\JY1/mc/m/n/12 の次元数 ， パラメ ータでも ， 学習デ ータに対しては正答率が \OT
+1/cmr/m/n/12 80%\JY1/mc/m/n/12 を超えているが ， ク
+ []
+
+
+Overfull \hbox (8.76563pt too wide) in paragraph at lines 213--214
+\OT1/cmr/m/n/12 hoo!\JY1/mc/m/n/12 知恵袋の質問文は ， 投稿者がどのカテゴリにど
+のような文章を投稿するかは自由
+ []
+
+
+Overfull \hbox (3.21552pt too wide) in paragraph at lines 215--216
+[]\JY1/mc/m/n/12 それに対して ， \OT1/cmr/m/n/12 SVM \JY1/mc/m/n/12 の学習では
+マ ージンを最大化するような分離超平面を決定す
+ []
+
+
+Overfull \hbox (6.66438pt too wide) in paragraph at lines 215--216
 \JY1/mc/m/n/12 ることで ， 学習デ ータに対して過学習しすぎることなく， 分類カテ
 ゴリが未知のクラ
  []
 
+
+Overfull \hbox (5.48824pt too wide) in paragraph at lines 215--216
+\JY1/mc/m/n/12 イエントの発言に対しても高い正答率を実現できたと考える ． しかし
+ \OT1/cmr/m/n/12 SVM \JY1/mc/m/n/12 でも ， \OT1/cmr/m/n/12 rbf
+ []
+
 [16]
-Overfull \hbox (11.27676pt too wide) in paragraph at lines 208--209
-[]\JY1/mc/m/n/12 次にそれぞれの分類手法で分類できている文とできていない文につい
-て述べる ． 「 母
+Overfull \hbox (2.53911pt too wide) in paragraph at lines 217--218
+[]\JY1/mc/m/n/12 次に ， それぞれの分類手法で分類できている文とできていない文に
+ついて述べる ．
  []
 
 
-Overfull \hbox (6.66438pt too wide) in paragraph at lines 210--211
-\JY1/mc/m/n/12 は ， これらの文に出現する単語がシステムの辞書には登録されておら
-ず， 正しく分類
+Overfull \hbox (6.66438pt too wide) in paragraph at lines 219--220
+\JY1/mc/m/n/12 は ， これらの文に出現する単語がシステムの辞書に登録されておらず
+， 正しく分類で
  []
 
 
-Overfull \hbox (0.60976pt too wide) in paragraph at lines 212--214
-\JY1/mc/m/n/12 「 愛 」 カテゴリに分類されている文に ， 「 あの人の仕事を否定し
-たくありません ． 」 ， 「 貯
+Overfull \hbox (3.97488pt too wide) in paragraph at lines 221--223
+\JY1/mc/m/n/12 単語を含む文が頻出しており， 文中の他の単語よりも 「 仕事 」 と
+いう単語のベクトル
  []
 
 
-Overfull \hbox (3.97488pt too wide) in paragraph at lines 212--214
-\JY1/mc/m/n/12 が頻出しており， 文中の他の単語よりも 「 仕事 」 という単語のベ
-クトルがその文ベク
- []
-
-
-Overfull \hbox (3.2381pt too wide) in paragraph at lines 212--214
-\JY1/mc/m/n/12 というような文を正しく分類するために ， 文の係り受け解析を行い 
-， 「 あの人 」 の 「 仕
- []
-
-
-Overfull \hbox (1.6538pt too wide) in paragraph at lines 215--216
+Overfull \hbox (1.6538pt too wide) in paragraph at lines 224--225
 []\JY1/mc/m/n/12 同様にクライエントの配偶者についての会話の中で ， ユ ーザ ーの
 手動修正後 「 愛 」
  []
 
 [17]
-Overfull \hbox (1.28539pt too wide) in paragraph at lines 217--220
+Overfull \hbox (1.28539pt too wide) in paragraph at lines 226--228
 \JY1/mc/m/n/12 う文は 「 愛 」 カテゴリに分類されるべきであるが ， 前者は主語が
 抜けており， 後者は
  []
 
 
-Overfull \hbox (1.16595pt too wide) in paragraph at lines 217--220
+Overfull \hbox (1.16595pt too wide) in paragraph at lines 226--228
 \JY1/mc/m/n/12 「 あの人 」 が誰なのか特定できず， 文中の他の単語もいずれかのカ
 テゴリの学習デ ー
  []
 
 
-Overfull \hbox (6.66438pt too wide) in paragraph at lines 217--220
+Overfull \hbox (6.66438pt too wide) in paragraph at lines 226--228
 \JY1/mc/m/n/12 タに多く存在せず， 共にどのカテゴリに関する文なのか判別し難い ．
  このような文を
  []
 
 
-Overfull \hbox (3.29176pt too wide) in paragraph at lines 217--220
-\JY1/mc/m/n/12 よりも高いが ， \OT1/cmr/m/n/12 80%\JY1/mc/m/n/12 程度に留ま っ 
-ている理由として ， クライエントの前の発言文に遡
- []
-
-
-Overfull \hbox (9.84172pt too wide) in paragraph at lines 221--222
+Overfull \hbox (9.84172pt too wide) in paragraph at lines 231--232
 []\JY1/mc/m/n/12 クライエントの前の発言に遡らないとカテゴリが把握できない文や 
 ， カウンセラ ー
  []
 
 
-Overfull \hbox (1.07417pt too wide) in paragraph at lines 221--222
+Overfull \hbox (1.07417pt too wide) in paragraph at lines 231--232
 \JY1/mc/m/n/12 からの質問に遡らないとカテゴリが把握できない返事などの短い文を正
 しく分類す
  []
@@ -795,9 +802,15 @@ Overfull \hbox (6.63455pt too wide) in paragraph at lines 5--6
  []
 
 
-Overfull \hbox (4.2064pt too wide) in paragraph at lines 5--6
-\JY1/mc/m/n/12 は及んでおらず， 分類精度をさらに高める必要がある ． さらにも っ
- と多くの未知のク
+Overfull \hbox (3.97488pt too wide) in paragraph at lines 5--6
+\JY1/mc/m/n/12 は達しているとは言い難く， 分類精度をさらに高める必要がある ． 
+そのためには ， さ
+ []
+
+
+Overfull \hbox (9.87155pt too wide) in paragraph at lines 5--6
+\JY1/mc/m/n/12 らに多くの未知のクライエントの発言文に対して分類精度を検証する必
+要がある ． 次
  []
 
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 11.
@@ -889,60 +902,59 @@ File: ./image/AutomaticCategoryClassificationFlowchartDiagram.png Graphic file
 File: ./image/BunNoVectorkaNoNagare.png Graphic file (type bmp)
 
 <./image/BunNoVectorkaNoNagare.png> [24] [25]
-File: ./image/svm_30_170.png Graphic file (type bmp)
- <./image/svm_30_170.png>
-File: ./image/svm_40_170.png Graphic file (type bmp)
+File: ./image/hayashida4_1.png Graphic file (type bmp)
+ <./image/hayashida4_1.png>
+File: ./image/hayashida4_2.png Graphic file (type bmp)
 
-<./image/svm_40_170.png>
-File: ./image/svm_50_170.png Graphic file (type bmp)
- <./image/svm_50_170.png>
-File: ./image/svm_100_170.png Graphic file (type bmp)
- <./image/svm_100_170.png>
-File: ./image/svm_200_170.png Graphic file (type bmp)
+<./image/hayashida4_2.png>
+File: ./image/hayashida4_3.png Graphic file (type bmp)
+ <./image/hayashida4_3.png>
+File: ./image/hayashida4_4.png Graphic file (type bmp)
 
-<./image/svm_200_170.png>
-File: ./image/svm_30_48.png Graphic file (type bmp)
- <./image/svm_30_48.png>
-File: ./image/svm_40_48.png Graphic file (type bmp)
- <./image/svm_40_48.png>
-File: ./image/svm_50_48.png Graphic file (type bmp)
+<./image/hayashida4_4.png>
+File: ./image/hayashida4_5.png Graphic file (type bmp)
+ <./image/hayashida4_5.png>
+File: ./image/hayashida4_6.png Graphic file (type bmp)
 
-<./image/svm_50_48.png>
-File: ./image/svm_100_48.png Graphic file (type bmp)
- <./image/svm_100_48.png>
-File: ./image/svm_200_48.png Graphic file (type bmp)
- <./image/svm_200_48.png>
-File: ./image/svm_30_170.png Graphic file (type bmp)
+<./image/hayashida4_6.png>
+File: ./image/hayashida4_7.png Graphic file (type bmp)
+ <./image/hayashida4_7.png>
+File: ./image/hayashida4_8.png Graphic file (type bmp)
 
-<./image/svm_30_170.png>
-File: ./image/svm_40_170.png Graphic file (type bmp)
- <./image/svm_40_170.png>
-File: ./image/svm_50_170.png Graphic file (type bmp)
- <./image/svm_50_170.png>
-File: ./image/svm_100_170.png Graphic file (type bmp)
+<./image/hayashida4_8.png>
+File: ./image/hayashida4_9.png Graphic file (type bmp)
+ <./image/hayashida4_9.png>
+File: ./image/hayashida4_10.png Graphic file (type bmp)
 
-<./image/svm_100_170.png>
-File: ./image/svm_200_170.png Graphic file (type bmp)
- <./image/svm_200_170.png>
-File: ./image/170_compare.png Graphic file (type bmp)
- <./image/170_compare.png>
-File: ./image/48_compare.png Graphic file (type bmp)
+<./image/hayashida4_10.png>
+File: ./image/nn_30_170.png Graphic file (type bmp)
+ <./image/nn_30_170.png>
+File: ./image/nn_40_170.png Graphic file (type bmp)
+ <./image/nn_40_170.png>
+File: ./image/nn_50_170.png Graphic file (type bmp)
 
-<./image/48_compare.png> [26] [27] [28] [29] [30] [31]) (./main.aux)
+<./image/nn_50_170.png>
+File: ./image/nn_100_170.png Graphic file (type bmp)
+ <./image/nn_100_170.png>
+File: ./image/nn_200_170.png Graphic file (type bmp)
+ <./image/nn_200_170.png>
+File: ./image/hayashida4_16.png Graphic file (type bmp)
+
+<./image/hayashida4_16.png>
+File: ./image/hayashida4_17.png Graphic file (type bmp)
+ <./image/hayashida4_17.png> [26] [27] [28] [29]
+[30] [31] [32]) (./main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 1698 strings out of 493671
- 20885 string characters out of 6151255
- 86081 words of memory out of 5000000
- 5231 multiletter control sequences out of 15000+600000
+ 1718 strings out of 493671
+ 21424 string characters out of 6151255
+ 85081 words of memory out of 5000000
+ 5246 multiletter control sequences out of 15000+600000
  23752 words of font info for 90 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 28i,8n,24p,2128b,404s stack positions out of 5000i,500n,10000p,500000b,80000s
+ 28i,8n,24p,3116b,404s stack positions out of 5000i,500n,10000p,500000b,80000s
 
-Output written on main.dvi (33 pages, 100248 bytes).
+Output written on main.dvi (34 pages, 100128 bytes).

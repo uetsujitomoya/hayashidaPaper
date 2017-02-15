@@ -42,7 +42,7 @@
    \caption{SVMでの次元数30の170文に対する正答率（\%）}
    \label{table:svm_30_170}
    \begin{center}
-     \includegraphics[width=\linewidth]{svm_30_170.png}
+     \includegraphics[width=\linewidth]{hayashida4_1.png}
    \end{center}
 \end{table*}
 \kueeseparator
@@ -52,7 +52,7 @@
    \caption{SVMでの次元数40の170文に対する正答率（\%）}
    \label{table:svm_40_170}
    \begin{center}
-     \includegraphics[width=\linewidth]{svm_40_170.png}
+     \includegraphics[width=\linewidth]{hayashida4_2.png}
    \end{center}
 \end{table*}
 \kueeseparator
@@ -62,7 +62,7 @@
    \caption{SVMでの次元数50の170文に対する正答率（\%）}
    \label{table:svm_50_170}
    \begin{center}
-     \includegraphics[width=\linewidth]{svm_50_170.png}
+     \includegraphics[width=\linewidth]{hayashida4_3.png}
    \end{center}
 \end{table*}
 \kueeseparator
@@ -72,7 +72,7 @@
    \caption{SVMでの次元数100の170文に対する正答率（\%）}
    \label{table:svm_100_170}
    \begin{center}
-     \includegraphics[width=\linewidth]{svm_100_170.png}
+     \includegraphics[width=\linewidth]{hayashida4_4.png}
    \end{center}
 \end{table*}
 \kueeseparator
@@ -82,7 +82,7 @@
    \caption{SVMでの次元数200の170文に対する正答率（\%）}
    \label{table:svm_200_170}
    \begin{center}
-     \includegraphics[width=\linewidth]{svm_200_170.png}
+     \includegraphics[width=\linewidth]{hayashida4_5.png}
    \end{center}
 \end{table*}
 \kueeseparator
@@ -92,7 +92,7 @@
    \caption{SVMでの次元数30の48文に対する正答率（\%）}
    \label{table:svm_30_48}
    \begin{center}
-     \includegraphics[width=\linewidth]{svm_30_48.png}
+     \includegraphics[width=\linewidth]{hayashida4_6.png}
    \end{center}
 \end{table*}
 \kueeseparator
@@ -102,7 +102,7 @@
    \caption{SVMでの次元数40の48文に対する正答率（\%）}
    \label{table:svm_40_48}
    \begin{center}
-     \includegraphics[width=\linewidth]{svm_40_48.png}
+     \includegraphics[width=\linewidth]{hayashida4_7.png}
    \end{center}
 \end{table*}
 \kueeseparator
@@ -112,7 +112,7 @@
    \caption{SVMでの次元数50の48文に対する正答率（\%）}
    \label{table:svm_50_48}
    \begin{center}
-     \includegraphics[width=\linewidth]{svm_50_48.png}
+     \includegraphics[width=\linewidth]{hayashida4_8.png}
    \end{center}
 \end{table*}
 \kueeseparator
@@ -122,7 +122,7 @@
    \caption{SVMでの次元数100の48文に対する正答率（\%）}
    \label{table:svm_100_48}
    \begin{center}
-     \includegraphics[width=\linewidth]{svm_100_48.png}
+     \includegraphics[width=\linewidth]{hayashida4_9.png}
    \end{center}
 \end{table*}
 \kueeseparator
@@ -132,7 +132,7 @@
    \caption{SVMでの次元数200の48文に対する正答率（\%）}
    \label{table:svm_200_48}
    \begin{center}
-     \includegraphics[width=\linewidth]{svm_200_48.png}
+     \includegraphics[width=\linewidth]{hayashida4_10.png}
    \end{center}
 \end{table*}
 \kueeseparator
@@ -140,9 +140,9 @@
 \begin{table*}
 
    \caption{ニューラルネットワークでの次元数30の170文に対する正答率（\%）}
-   \label{table:svm_30_170}
+   \label{table:nn_30_170}
    \begin{center}
-     \includegraphics[width=\linewidth]{svm_30_170.png}
+     \includegraphics[width=\linewidth]{nn_30_170.png}
    \end{center}
 \end{table*}
 \kueeseparator
@@ -150,9 +150,9 @@
 \begin{table*}
 
    \caption{ニューラルネットワークでの次元数40の170文に対する正答率（\%）}
-   \label{table:svm_40_170}
+   \label{table:nn_40_170}
    \begin{center}
-     \includegraphics[width=\linewidth]{svm_40_170.png}
+     \includegraphics[width=\linewidth]{nn_40_170.png}
    \end{center}
 \end{table*}
 \kueeseparator
@@ -160,9 +160,9 @@
 \begin{table*}
 
    \caption{ニューラルネットワークでの次元数50の170文に対する正答率（\%）}
-   \label{table:svm_50_170}
+   \label{table:nn_50_170}
    \begin{center}
-     \includegraphics[width=\linewidth]{svm_50_170.png}
+     \includegraphics[width=\linewidth]{nn_50_170.png}
    \end{center}
 \end{table*}
 \kueeseparator
@@ -170,9 +170,9 @@
 \begin{table*}
 
    \caption{ニューラルネットワークでの次元数100の170文に対する正答率（\%）}
-   \label{table:svm_100_170}
+   \label{table:nn_100_170}
    \begin{center}
-     \includegraphics[width=\linewidth]{svm_100_170.png}
+     \includegraphics[width=\linewidth]{nn_100_170.png}
    \end{center}
 \end{table*}
 \kueeseparator
@@ -180,9 +180,9 @@
 \begin{table*}
 
    \caption{ニューラルネットワークでの次元数200の170文に対する正答率（\%）}
-   \label{table:svm_200_170}
+   \label{table:nn_200_170}
    \begin{center}
-     \includegraphics[width=\linewidth]{svm_200_170.png}
+     \includegraphics[width=\linewidth]{nn_200_170.png}
    \end{center}
 \end{table*}
 \kueeseparator
@@ -192,7 +192,7 @@
    \caption{170文に対する分類手法の比較}
    \label{table:170_compare}
    \begin{center}
-     \includegraphics[width=\linewidth]{170_compare.png}
+     \includegraphics[width=\linewidth]{hayashida4_16.png}
    \end{center}
 \end{table*}
 \kueeseparator
@@ -202,7 +202,7 @@
    \caption{48文に対する分類手法の比較}
    \label{table:48_compare}
    \begin{center}
-     \includegraphics[width=\linewidth]{48_compare.png}
+     \includegraphics[width=\linewidth]{hayashida4_17.png}
    \end{center}
 \end{table*}
 \kueeseparator
